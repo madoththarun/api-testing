@@ -1,0 +1,10 @@
+[
+  {
+    "transaction_id": 1,
+    "amount": 100,
+    "transaction_type": "DEPOSIT",
+    "user": 1,
+    "status": "COMPLETED",
+    "timestamp": "2024-11-22T04:01:25.707Z"
+  }
+]
